@@ -1,2 +1,2 @@
 # hooked
-Movie search app
+Movie search app using React hooks
